@@ -10,9 +10,12 @@ In this repository, we provide integration examples demonstrating how to connect
 Pistache is a modern and elegant C++ REST framework, playing a central role in this project. It enables the factorial functionality to be consumed over HTTP and provides client implementations for various languages, including C#, Go, Java, JavaScript, Julia, Octave, Python, R, and Rust.
 Why Use Pistache in This Project?
 
-###  Web Accessibility with Multi-Language Clients: Pistache not only allows the C++ code to be accessed over the web but also provides ready-to-use client implementations for different programming languages, enhancing accessibility across various platforms.
-###  C++ Native Development: Enables developers to work within a familiar C++ environment, leveraging its performance and efficiency.
-###  Ease of Integration: Facilitates integration into existing or new C++ projects, providing a seamless way to add web accessibility.
+###  Web Accessibility with Multi-Language Clients: 
+Pistache not only allows the C++ code to be accessed over the web but also provides ready-to-use client implementations for different programming languages, enhancing accessibility across various platforms.
+###  C++ Native Development: 
+Enables developers to work within a familiar C++ environment, leveraging its performance and efficiency.
+###  Ease of Integration: 
+Facilitates integration into existing or new C++ projects, providing a seamless way to add web accessibility.
 
 ## SwigFactorial with Pistache and FastAPI Integrations
 (Other sections remain unchanged)
