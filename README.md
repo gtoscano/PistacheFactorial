@@ -40,7 +40,6 @@ C++ is known for its high performance and efficiency, making it a preferred choi
 - **Performance with Ease**: Combines the performance advantages of C++ with the ease and flexibility of Python, providing an efficient yet developer-friendly approach.
 - **Rapid Development**: Enables quick prototyping and development, leveraging C++ for computational tasks while using Python for web handling.
 - **FastAPIFactorial**: A FastAPI implementation that provides an endpoint to calculate the factorial of a given number. The project can be found [here](https://github.com/gtoscano/FastAPIFactorial).
-
 - **DjangoFactorial**: A Django implementation using the Django REST Framework to provide a similar factorial calculation endpoint. The project can be found [here](https://github.com/gtoscano/DjangoFactorial).
 
 - For **RESTful client codes**: Implementation of RESTful clients in several programming languages can be din [here][https://github.com/gtoscano/RestFactorialClients). Such a project has examples in c++, c#, golang, java, julia, octave, python, R, and rust.
@@ -52,6 +51,9 @@ The choice between SWIG, Pistache, and any different-language-framework depends 
 - For projects that want to leverage a modern Python web framework alongside C++, FastAPI, or Django offer a compelling option.
 
 Each approach bridges the gap between the powerful computational capabilities of C++ and various platforms and languages, allowing developers to harness C++ efficiency while enjoying the benefits of broader accessibility and integration.
+
+# Installation
+
 
 
 # Test using curl
