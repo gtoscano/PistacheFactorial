@@ -1,17 +1,17 @@
 // main.cpp
 
-#include "book.hpp"
+#include "factorial.h"
 
 int main() {
     Pistache::Address addr(Pistache::Ipv4::any(), Pistache::Port(9080));
 
-    BookService bookService(addr);
-    bookService.init();
-    bookService.start();
+    FactorialService fact_service(addr);
+    fact_service.init();
+    fact_service.start();
 
     getchar(); // Wait for input to stop the server
 
-    bookService.shutdown();
+    fact_service.shutdown();
 
     return 0;
 }
